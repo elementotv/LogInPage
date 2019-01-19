@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LogInPageDemo</string>
+    <string name="emailId">E-mail: </string>
+    <string name="enter_email">Enter your E-mail Id...</string>
+    <string name="passwd">Password: </string>
+    <string name="enter_passwd">Create your Password...</string>
+    <string name="create_new_acc">Create New Account</string>
+    <string name="logIn">Log In </string>
+    <string name="crreate_acc">Create Account</string>
+</resources>
